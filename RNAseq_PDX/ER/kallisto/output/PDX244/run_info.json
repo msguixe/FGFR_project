@@ -1,0 +1,13 @@
+{
+	"n_targets": 188753,
+	"n_bootstraps": 0,
+	"n_processed": 20308951,
+	"n_pseudoaligned": 16528006,
+	"n_unique": 4254911,
+	"p_pseudoaligned": 81.4,
+	"p_unique": 21.0,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Sat Mar 13 23:31:50 2021",
+	"call": "kallisto quant -i /media/msanchezg/My Book/FGFR_project/RNAseq/kallisto/index/homo_sapiens/transcriptome.idx -o /media/msanchezg/My Book/FGFR_project/RNAseq_PDX/ER/kallisto/output/PDX244/ --single -l 150 -s 10 /media/msanchezg/My Book/FGFR_project/RNAseq_PDX/ER/fastq/raw.violetta/15_R1--PDX244--CNTL-1L--83-.r_1.fq.gz"
+}

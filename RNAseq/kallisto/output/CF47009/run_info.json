@@ -1,0 +1,13 @@
+{
+	"n_targets": 188753,
+	"n_bootstraps": 0,
+	"n_processed": 24068882,
+	"n_pseudoaligned": 19533992,
+	"n_unique": 2954302,
+	"p_pseudoaligned": 81.2,
+	"p_unique": 12.3,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Sun Mar  7 18:48:50 2021",
+	"call": "kallisto quant -i /media/msanchezg/My Book/FGFR_project/RNAseq/kallisto/index/homo_sapiens/transcriptome.idx -o /media/msanchezg/My Book/FGFR_project/RNAseq/kallisto/output/CF47009/ /media/msanchezg/My Book/FGFR_project/RNAseq/fastq/6039_18_CF47009_GTGAAAC_S18_R1.fastq.gz /media/msanchezg/My Book/FGFR_project/RNAseq/fastq/6039_18_CF47009_GTGAAAC_S18_R2.fastq.gz"
+}

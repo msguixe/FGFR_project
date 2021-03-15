@@ -1,0 +1,13 @@
+{
+	"n_targets": 188753,
+	"n_bootstraps": 0,
+	"n_processed": 27051360,
+	"n_pseudoaligned": 21891716,
+	"n_unique": 6706224,
+	"p_pseudoaligned": 80.9,
+	"p_unique": 24.8,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Sat Mar 13 23:25:12 2021",
+	"call": "kallisto quant -i /media/msanchezg/My Book/FGFR_project/RNAseq/kallisto/index/homo_sapiens/transcriptome.idx -o /media/msanchezg/My Book/FGFR_project/RNAseq_PDX/ER/kallisto/output/PDX329/ --single -l 150 -s 10 /media/msanchezg/My Book/FGFR_project/RNAseq_PDX/ER/fastq/raw.violetta/PDX329-P1-XIPF835-20-01-2017.r_1.fq.gz"
+}

@@ -1,0 +1,6 @@
+Archer/**
+RNAseq/fastq/**
+RNAseq/kallisto/index/**
+RNAseq_PDX/ER/fastq/**
+RNAseq_PDX/TNBC/bams/**
+RNAseq_PDX/TNBC/fastq/**

@@ -1,0 +1,13 @@
+{
+	"n_targets": 188753,
+	"n_bootstraps": 0,
+	"n_processed": 33933294,
+	"n_pseudoaligned": 16600334,
+	"n_unique": 4467469,
+	"p_pseudoaligned": 48.9,
+	"p_unique": 13.2,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Sun Mar 14 20:07:13 2021",
+	"call": "kallisto quant -i /media/msanchezg/My Book/FGFR_project/RNAseq/kallisto/index/homo_sapiens/transcriptome.idx -o /media/msanchezg/My Book/FGFR_project/RNAseq_PDX/TNBC/kallisto/output/PDX288/ /media/msanchezg/My Book/FGFR_project/RNAseq_PDX/TNBC/fastq/PDX288_RNA-seq_1.fq /media/msanchezg/My Book/FGFR_project/RNAseq_PDX/TNBC/fastq/PDX288_RNA-seq_2.fq"
+}
